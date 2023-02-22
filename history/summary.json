@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 141,
+    "timeDay": 141,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 8
+      "2023-02-22": 13
     }
+  },
+  {
+    "name": "Nectari Academy DataSync",
+    "url": "https://datasync.nectariacademy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/datasync.nectariacademy.com.ico",
+    "slug": "nectari-academy-data-sync",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 300,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
   }
 ]
