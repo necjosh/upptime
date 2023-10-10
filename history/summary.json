@@ -4,7 +4,7 @@
     "url": "https://datasync.nectariacademy.com",
     "icon": "https://icons.duckduckgo.com/ip3/datasync.nectariacademy.com.ico",
     "slug": "nectari-academy-data-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 356,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-03-10": 24,
       "2023-02-23": 68
     }
