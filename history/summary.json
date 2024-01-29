@@ -4,18 +4,19 @@
     "url": "https://datasync.nectariacademy.com",
     "icon": "https://icons.duckduckgo.com/ip3/datasync.nectariacademy.com.ico",
     "slug": "nectari-academy-data-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 360,
-    "timeDay": 514,
-    "timeWeek": 431,
-    "timeMonth": 394,
+    "timeDay": 391,
+    "timeWeek": 411,
+    "timeMonth": 390,
     "timeYear": 360,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-03-10": 24,
       "2023-02-23": 68
     }
