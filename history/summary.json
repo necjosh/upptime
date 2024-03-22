@@ -6,17 +6,15 @@
     "slug": "nectari-academy-data-sync",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 415,
-    "timeDay": 7261,
-    "timeWeek": 2671,
-    "timeMonth": 1024,
-    "timeYear": 424,
-    "dailyMinutesDown": {
-      "2024-03-21": 12
-    }
+    "timeDay": 7299,
+    "timeWeek": 2696,
+    "timeMonth": 1032,
+    "timeYear": 425,
+    "dailyMinutesDown": {}
   }
 ]
